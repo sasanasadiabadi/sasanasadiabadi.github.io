@@ -3,7 +3,19 @@ author = "Sasan Asadiabadi"
 +++
 
 # About Me
-I am Sasan Asadiabadi. I am currently working as a postdoctoral researcher at the Biophysics lab of Wageningen University and Research ([WUR]()). I have obtained my Masters and Ph.D. from Electrical Engineering department at [Koç University], top university in Turkey, and my bachelor’s degree in Electrical Engineering from Sharif University of Technology, Iran's best ranked university. 
+
+**Sasan Asadiabadi, Ph.D.***
+
+**Current**: Postdoctoral Researcher @ Wageningen University and Research [WUR](https://www.wur.nl/en.htm))
+
+**Previous**: 
+  Deep Learning Engineer, [Eyeris](https://www.eyeris.ai/)
+  Senior AI Research Engineer, [RaSpect Intelligence Inspection Limited](https://raspect.ai/en)
+  Computer Vision Engineer, [CY Vision](https://www.cyvision.com/)
+
+**Education**: Ph.D EE. Koç University [KU](https://www.ku.edu.tr/en/)
+
+I am Sasan Asadiabadi.
 
 
 # Recent Posts: 
