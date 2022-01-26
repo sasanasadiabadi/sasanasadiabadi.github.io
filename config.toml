@@ -31,9 +31,9 @@ pygmentsCodefencesGuessSyntax = true
 
 
 [params]
-title = "I am Sasan"
+title = "I'm Sasan"
 author = "Sasan Asadiabadi"
-description = "  "
+description = "Personal homepage of Sasan Asadiabadi"
 profilePicture = "images/me.jpg"
 contentratio = 0.85
 readMore = true
@@ -41,17 +41,17 @@ googleSiteVerify = "ABCDEFGHIJKLMNOPQRSTUVWXYZ0123456789"
 
 
 
-[[socialIcons]]
+[[params.socialIcons]]
 icon = "fab fa-linkedin"
 title = "Linkedin"
 url = "https://www.linkedin.com/in/sasan-asadiabadi-1211678a/"
 
-[[socialIcons]]
+[[[params.socialIcons]]
 icon = "fab fa-github"
 title = "GitHub"
 url = "https://github.com/sasanasadiabadi"
 
-[[socialIcons]]
+[[[params.socialIcons]]
 icon = "fas fa-envelope"
 title = "e-mail"
 url = "mailto:sabadi15@ku.edu.tr"
