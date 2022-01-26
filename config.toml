@@ -46,12 +46,12 @@ icon = "fab fa-linkedin"
 title = "Linkedin"
 url = "https://www.linkedin.com/in/sasan-asadiabadi-1211678a/"
 
-[[[params.socialIcons]]
+[[[socialIcons]]
 icon = "fab fa-github"
 title = "GitHub"
 url = "https://github.com/sasanasadiabadi"
 
-[[[params.socialIcons]]
+[[[socialIcons]]
 icon = "fas fa-envelope"
 title = "e-mail"
 url = "mailto:sabadi15@ku.edu.tr"
