@@ -41,7 +41,7 @@ googleSiteVerify = "ABCDEFGHIJKLMNOPQRSTUVWXYZ0123456789"
 
 
 
-[[params.socialIcons]]
+[[socialIcons]]
 icon = "fab fa-linkedin"
 title = "Linkedin"
 url = "https://www.linkedin.com/in/sasan-asadiabadi-1211678a/"
