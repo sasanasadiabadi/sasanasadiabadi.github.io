@@ -74,7 +74,7 @@ url = "mailto:sabadi15@ku.edu.tr"
   name = "Publications"
   weight = 200
   identifier = "publications"
-  url = "/publications/"
+  url = "/content/publications/"
   
   [[menu.main]]
   name = "CV"
